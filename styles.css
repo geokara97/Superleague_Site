@@ -25,9 +25,43 @@ main{
 table{
     border-collapse: collapse;
     border:2px solid white;
+    color: white;
 }
 th,td{
     border: 1px solid white;
     text-align: center;
     padding: 6px 6px;
+}
+#AEK{
+    background-color: yellow;
+    color: black;
+    
+}
+
+#Aris{
+    background-color: yellow;
+    color: black;
+    
+}
+
+#Panathinaikos{
+    background-color: green;
+    color: black;
+    
+}
+
+#Paok{
+    background-color: white;
+    color: black;
+    
+}
+#osfp{
+    background-color: white;
+    color: black;
+}
+div img{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    
 }
